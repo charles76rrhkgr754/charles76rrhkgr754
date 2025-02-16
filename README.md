@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! 👋 I'm charles76rrhkgr754
 
-<!--
-**charles76rrhkgr754/charles76rrhkgr754** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛹 🎪 🎳 🎯 Ready to work on tech reviews 🛹 🎪 🎳 🎯
 
-Here are some ideas to get you started:
+## About Me
+🎽 🎨 A lover of UI/UX design 🎽 🎨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Working On
+🚵 🏓 Curious about product management 🚵 🏓
+
+### Fun Facts
+🎰 🎯 🛶 Innovating in the field of desktop development 🎰 🎯 🛶
+
+---
+🎯 🛹 🛼 🏒 🎽 Thanks for visiting my profile! 🎽 🎮 🎮 🏑 🚴
